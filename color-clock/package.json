@@ -1,0 +1,14 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "author": "Rachael",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.3.1"
+  }
+}
